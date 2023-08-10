@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:AA4706CD-63C6-4437-AC08-1BFAA14E5A37</id>
+ <title>Page list Atom feed</title>
+ <updated>2014-04-15T01:13:23+01:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:4F9DB88C-4FCE-4B1D-A81E-9A3011E1B60B</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">4F9DB88C-4FCE-4B1D-A81E-9A3011E1B60B</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2014-04-15T01:13:23.001+01:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:4F2BBBC8-4A50-41DF-835D-322896B05E31</id>
+  <title>Song Writing</title>
+  <title xmlns="urn:iweb:">Song Writing</title>
+  <in-navbar xmlns="urn:iweb:">4F2BBBC8-4A50-41DF-835D-322896B05E31</in-navbar>
+  <link rel="alternate" href="Song_Writing.html"/>
+  <updated>2014-04-15T01:13:23.002+01:00</updated>
+  <content>Song Writing</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:FAFDB50C-E1BD-41BC-9665-2BAD27DABE41</id>
+  <title>Services</title>
+  <title xmlns="urn:iweb:">Services</title>
+  <in-navbar xmlns="urn:iweb:">FAFDB50C-E1BD-41BC-9665-2BAD27DABE41</in-navbar>
+  <link rel="alternate" href="Services.html"/>
+  <updated>2014-04-15T01:13:23.003+01:00</updated>
+  <content>Services</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:1A156D24-91BB-4B2F-8299-8FC10795E511</id>
+  <title>Gallery</title>
+  <title xmlns="urn:iweb:">Gallery</title>
+  <in-navbar xmlns="urn:iweb:">1A156D24-91BB-4B2F-8299-8FC10795E511</in-navbar>
+  <link rel="alternate" href="Gallery.html"/>
+  <updated>2014-04-15T01:13:23.004+01:00</updated>
+  <content>Gallery</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:444D9FE0-EA0E-4697-A850-7CD4B31DDF8B</id>
+  <title>Weddings</title>
+  <title xmlns="urn:iweb:">Weddings</title>
+  <in-navbar xmlns="urn:iweb:">444D9FE0-EA0E-4697-A850-7CD4B31DDF8B</in-navbar>
+  <link rel="alternate" href="Weddings.html"/>
+  <updated>2014-04-15T01:13:23.005+01:00</updated>
+  <content>Weddings</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:DEF705BF-C345-4279-8040-ECA85C63BDBC</id>
+  <title>Links Clients</title>
+  <title xmlns="urn:iweb:">Links Clients</title>
+  <in-navbar xmlns="urn:iweb:">DEF705BF-C345-4279-8040-ECA85C63BDBC</in-navbar>
+  <link rel="alternate" href="Links_Clients.html"/>
+  <updated>2014-04-15T01:13:23.006+01:00</updated>
+  <content>Links Clients</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:ABD30EA2-9E0D-4F2D-855D-9176568BF55E</id>
+  <title>Contact Us </title>
+  <title xmlns="urn:iweb:">Contact Us </title>
+  <in-navbar xmlns="urn:iweb:">ABD30EA2-9E0D-4F2D-855D-9176568BF55E</in-navbar>
+  <link rel="alternate" href="Contact_Us.html"/>
+  <updated>2014-04-15T01:13:23.007+01:00</updated>
+  <content>Contact Us </content>
+ </entry>
+</feed>
